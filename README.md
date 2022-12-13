@@ -15,4 +15,4 @@ docker run -p 5000:5000 iris-rfc
 ```
 
 The docker image is available on docker hub: 
-[vsmolyakov/iris-rfc]https://hub.docker.com/repository/docker/vsmolyakov/iris-rfc
+https://hub.docker.com/repository/docker/vsmolyakov/iris-rfc
