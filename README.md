@@ -1,5 +1,5 @@
 # mle
-Machine Learning Engineering with a focus on deployment of ML models in production.
+Machine Learning Engineering (MLE) with a focus on deployment of ML models in production.
 
 **Random Forest Classifier Docker Deployment**
 
