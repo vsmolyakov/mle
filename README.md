@@ -13,10 +13,6 @@ curl -X 'GET' \
   -H 'accept: application/json'
 ```
 
-The docker image is available on docker hub: 
-https://hub.docker.com/repository/docker/vsmolyakov/flan-t5-small-text-gen-fastapi
-
-
 **RoBERTa sentiment classification**
 
 - [inference.py](./roberta/webapp/inference.py): model inference
